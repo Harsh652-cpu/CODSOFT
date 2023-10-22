@@ -7,7 +7,7 @@ class rangeofnumbers{
     }
 }
 
-public class Main {
+public class Numbergame {
     public static void main(String[] args){
         Scanner inp=new Scanner(System.in);
         rangeofnumbers rg=new rangeofnumbers();
