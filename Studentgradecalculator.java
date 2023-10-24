@@ -22,7 +22,7 @@ class Grade{
     }
 }
 
-public class Studentcalculator{
+public class Studentgradecalculator{
     public static void main(String[] args){
         Grade g = new Grade();
         Scanner sc = new Scanner(System.in);
